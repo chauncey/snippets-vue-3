@@ -1,29 +1,16 @@
-# snippets-vue
+# Snippets
 
-## Project setup
-```
-npm install
-```
+A snippets app with Firebase for a backend. This is a personal play project with no guarantees.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Uses
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Vue CLI 3](https://vuejs.org)
+- [Firebase](https://firebase.google.com)
+- [Bulma](https://bulma.io)
 
-### Run your tests
-```
-npm run test
-```
+## TODO
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Add authentication
+- Make it look decent
+- Add the ability to add
+- Add the ability to delete
