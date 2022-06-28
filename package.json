@@ -24,6 +24,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "firebase": "^5.9.2",
     "node-sass": "^7.0.0",
+    "protobufjs": ">=6.10.3",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.21"
   }
